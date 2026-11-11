@@ -23,8 +23,8 @@
 ### Step-by-Step Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sql-injection-demo.git
-cd sql-injection-demo
+git clone https://github.com/DR13X/-SQL-Injection-Demonstration.git
+cd -SQL-Injection-Demonstration
 ```
 # Create and activate virtual environment
 ```
